@@ -3,7 +3,7 @@ This is a script to automate compiling Aseprite on Ubuntu, Fedora, and more! If 
 
 To run the script, simply open a terminal window and paste this command:
 ```bash
-bash -c "$(curl -sSf 'https://raw.githubusercontent.com/mak448a/compile-aseprite-linux/refs/heads/main/compile.sh')"
+bash -c "$(curl -sSf 'https://raw.githubusercontent.com/RubensLixo/compile-aseprite-linux/refs/heads/main/compile.sh')"
 ```
 
 Please consider giving this repo a star if you found it helpful.
