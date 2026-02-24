@@ -63,7 +63,7 @@ unzip -q $FILE -d aseprite \
 echo "${FILE} decompresed."
 
 # Check distro
-os_name='Ubuntu'
+os_name='Arch'
 
 # Assign package manager to a variable
 if [[ "$os_name" == *"Fedora"* ]]; then
